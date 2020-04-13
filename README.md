@@ -11,4 +11,4 @@ The files in this repository include:
 * `run_analysis.R`
     * Downloads and loads in the data
     * Follows steps 1-5 as outlined in the project description (and `codebook.md`)
-* `meanResultsByActivity.txt`: the resultant dataset, clean and tidy.
+* `meanResultsByActivity.txt`: the resultant data set, clean and tidy.
