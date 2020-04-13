@@ -3,7 +3,7 @@
 This repository is for the Getting and Cleaning Data Course Project, found in week 4. 
 
 ## Raw data
-The dataset used for the project may be found [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip).
+The data set used for the project may be found [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip).
 
 ## Repository Files
 The files in this repository include:
